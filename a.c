@@ -1,7 +1,7 @@
 int main()
 {
 
-printf("hello, project");
+printf("hello, world");
 
 }
 
